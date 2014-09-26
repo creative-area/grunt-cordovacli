@@ -28,7 +28,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "cordova": "^3.6.1"
+    "cordova": "3.6.1-0.2.13"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
