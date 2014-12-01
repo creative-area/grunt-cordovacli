@@ -1,6 +1,6 @@
 {
   "name": "grunt-cordovacli",
-  "description": "Wraps a web application as a hybrid app with Apache Cordova CLI 3.x",
+  "description": "Wraps a web application as a hybrid app with Apache Cordova CLI 4",
   "version": "0.5.1",
   "homepage": "https://github.com/csantanapr/grunt-cordovacli",
   "author": {
@@ -29,7 +29,7 @@
   },
   "devDependencies": {
     "grunt": "^0.4.5",
-    "cordova": ">=3",
+    "cordova": "^4.1.2",
     "grunt-cli": "^0.1.13",
     "grunt-contrib-clean": "^0.6.0",
     "grunt-contrib-jshint": "^0.10.0",
@@ -37,7 +37,7 @@
   },
   "peerDependencies": {
     "grunt": "^0.4.5",
-    "cordova": ">=3"
+    "cordova": "^4.1.2"
   },
   "keywords": [
     "gruntplugin",
